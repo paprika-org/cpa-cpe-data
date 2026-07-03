@@ -1,0 +1,20 @@
+{
+  "state_code": "VA",
+  "state_name": "Virginia",
+  "deadline_type": "triennial",
+  "deadline_date": "December 31",
+  "deadline_notes": "Triennial. Current period: January 1, 2024 – December 31, 2026.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": 50,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "VBOA",
+  "source_url": "https://cpe.paprika-labs.app/va-cpa-cpe-requirements-december-31.html",
+  "notes": "20hr annual minimum (non-deferrable). 50% self-study cap. VBOA-approved ethics required."
+}
