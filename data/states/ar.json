@@ -1,0 +1,20 @@
+{
+  "state_code": "AR",
+  "state_name": "Arkansas",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual 40hr minimum plus rolling 120hr/3-year total requirement.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": 80,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "ASBPA",
+  "source_url": "https://cpe.paprika-labs.app/arkansas-cpa-cpe-requirements-december-31.html",
+  "notes": "Rolling 120hr / 3-year lookback in addition to 40hr annual minimum. 80% self-study cap is the most permissive among annual-deadline states."
+}
