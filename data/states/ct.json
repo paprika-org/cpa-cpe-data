@@ -1,0 +1,20 @@
+{
+  "state_code": "CT",
+  "state_name": "Connecticut",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "CPE completion period: July 1 – June 30. License renewal reporting: December 31. Effective CPE deadline is June 30.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": 8,
+  "aa_applies_to": "attest",
+  "self_study_cap_pct": null,
+  "carryover_hours": 20,
+  "technical_floor_pct": null,
+  "regulatory_body": "CT SBOA",
+  "source_url": "https://cpe.paprika-labs.app/connecticut-cpa-cpe-requirements.html",
+  "notes": "Two-date structure: CPE completion by June 30, license renewal report by December 31. 8hr financial-statement-prep requirement for attest CPAs. 20hr carryover allowed."
+}
