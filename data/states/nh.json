@@ -1,0 +1,20 @@
+{
+  "state_code": "NH",
+  "state_name": "New Hampshire",
+  "deadline_type": "triennial",
+  "deadline_date": "June 30",
+  "deadline_notes": "Triennial. Last-name group determines year: A-F → 2026; G-M → 2027; N-Z → 2028.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": 60,
+  "technical_floor_pct": null,
+  "regulatory_body": "NH BOA",
+  "source_url": "https://cpe.paprika-labs.app/new-hampshire-cpa-cpe-requirements.html",
+  "notes": "Staggered by last name across 3 years. 60hr carryover. No self-study cap. 2023 change: new licensees use 2-year period instead of 3-year."
+}
