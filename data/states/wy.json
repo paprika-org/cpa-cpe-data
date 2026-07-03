@@ -1,0 +1,20 @@
+{
+  "state_code": "WY",
+  "state_name": "Wyoming",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual CPE by December 31. Rolling 3-year 120hr total.",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "WY BOA",
+  "source_url": "https://cpe.paprika-labs.app/wyoming-cpa-cpe-requirements-december-31.html",
+  "notes": "4hr Board-approved WY-specific ethics (WYSCPA/CPEthink/AccountingTools only, 80% pass score required). 80hr technical minimum (67%). No carryover. Optional 90-day extension ($150 fee, to March 31, elected at renewal). Penalty CPE: lesser of shortage or 16hr. Graduated new licensee rules (0/60/120). No annual minimum (only rolling 3yr)."
+}
