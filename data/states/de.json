@@ -1,0 +1,20 @@
+{
+  "state_code": "DE",
+  "state_name": "Delaware",
+  "deadline_type": "biennial",
+  "deadline_date": "June 30 (odd years)",
+  "deadline_notes": "Biennial ending June 30 of odd years (next active: June 30, 2027).",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": 8,
+  "aa_applies_to": "all",
+  "self_study_cap_pct": 30,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "DBOA",
+  "source_url": "https://cpe.paprika-labs.app/delaware-cpa-cpe-requirements.html",
+  "notes": "Rare dual mandate: 8hr A&A + 8hr Taxation required for all licensees. 4hr DE-specific ethics. 30% self-study cap (24hr max). Renewal via DELPROS. Among strictest state-specific requirements."
+}
