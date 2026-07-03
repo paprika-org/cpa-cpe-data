@@ -1,0 +1,20 @@
+{
+  "state_code": "KY",
+  "state_name": "Kentucky",
+  "deadline_type": "biennial",
+  "deadline_date": "December 31",
+  "deadline_notes": "Biennial; license number determines active year. Odd license#: Jan 1, 2025 – Dec 31, 2026 (ACTIVE). Even license#: Jan 1, 2026 – Dec 31, 2027.",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": null,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": 16,
+  "aa_applies_to": "attest",
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": 50,
+  "regulatory_body": "KY BOA",
+  "source_url": "https://cpe.paprika-labs.app/kentucky-cpa-cpe-requirements-december-31.html",
+  "notes": "80hr if ≥3000 engagement hours; 60hr otherwise. 16hr A&A for attest CPAs (8hr/yr). Personal development cap: 8hr for 60-hr track / 12hr for 80-hr track. Behavioral Ethics & HR/Personnel EXCLUDED from CPE."
+}
