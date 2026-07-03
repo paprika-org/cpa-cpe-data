@@ -1,0 +1,20 @@
+{
+  "state_code": "NM",
+  "state_name": "New Mexico",
+  "deadline_type": "annual",
+  "deadline_date": "birth-month",
+  "deadline_notes": "Annual renewal. Deadline falls in the CPA's birth month (personalized).",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": 80,
+  "regulatory_body": "NM RLD",
+  "source_url": "https://cpe.paprika-labs.app/new-mexico-cpa-cpe-requirements.html",
+  "notes": "DISTINCTIVE: 80% technical floor — 96 of 120 hours must be technical subjects (accounting, auditing, BL, economics, finance, govt, IT, mgmt services, regulatory ethics, statistics, tax). Stricter than most states. 24hr external-sponsor rule since 2007: cannot be 100% firm-internal CPE. Rolling 3-year window. Nano-learning 8hr sub-cap. ~10% annual audit rate."
+}
