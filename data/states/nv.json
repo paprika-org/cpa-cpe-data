@@ -1,0 +1,20 @@
+{
+  "state_code": "NV",
+  "state_name": "Nevada",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual CPE by December 31. License permit renewal by January 31.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": 8,
+  "aa_applies_to": "attest",
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "NVBOA",
+  "source_url": "https://cpe.paprika-labs.app/nevada-cpa-cpe-requirements-december-31.html",
+  "notes": "8hr A&A for attest services only (audit/review/full-disclosure compilation). Tax and industry CPAs are exempt from A&A requirement. No carryover. NASBA-approved providers."
+}
