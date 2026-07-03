@@ -1,0 +1,20 @@
+{
+  "state_code": "IL",
+  "state_name": "Illinois",
+  "deadline_type": "triennial",
+  "deadline_date": "September 30",
+  "deadline_notes": "Triennial period: October 1, 2024 – September 30, 2027.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "IDFPR",
+  "source_url": "https://cpe.paprika-labs.app/illinois-cpa-cpe-requirements.html",
+  "notes": "Separate 1hr sexual harassment prevention training (not counted within 120hr total). Tiered self-study cap: 80hr for public accountants, 60hr for others. No annual minimum. No A&A mandate for attest. ~25K IL CPAs."
+}
