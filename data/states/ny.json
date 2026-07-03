@@ -1,0 +1,20 @@
+{
+  "state_code": "NY",
+  "state_name": "New York",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual CPE by December 31. Two-option system: 40hr general or 24hr concentrated.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "NYSED",
+  "source_url": "https://cpe.paprika-labs.app/ny-cpa-cpe-requirements-december-31.html",
+  "notes": "Dual-option: 40hr across multiple subject areas OR 24hr if all concentrated in one recognized subject area. Ethics: 4hr per 3-year period. Attest supervisor rule for CPAs supervising attest work. No carryover. ~57K+ NY CPAs."
+}
