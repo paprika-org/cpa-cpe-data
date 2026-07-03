@@ -1,0 +1,20 @@
+{
+  "state_code": "KS",
+  "state_name": "Kansas",
+  "deadline_type": "biennial",
+  "deadline_date": "June 30",
+  "deadline_notes": "Biennial. Certificate number determines year: even cert# → June 30 of even years (incl. 2026 ACTIVE); odd cert# → June 30 of odd years.",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": null,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": 20,
+  "technical_floor_pct": null,
+  "regulatory_body": "KSBOA",
+  "source_url": "https://cpe.paprika-labs.app/kansas-cpa-cpe-requirements.html",
+  "notes": "Staggered by certificate number. 30% personal development cap (24hr max). LMPA distinction: local municipality CPAs need 16hr/yr with 8hr municipal A&A. 8hr penalty for non-compliance."
+}
