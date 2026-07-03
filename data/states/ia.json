@@ -1,0 +1,20 @@
+{
+  "state_code": "IA",
+  "state_name": "Iowa",
+  "deadline_type": "triennial",
+  "deadline_date": "June 30",
+  "deadline_notes": "Triennial (3-year) period. License renewal: June 30. Two period options: January 1–December 31 or July 1–June 30 (unique flexibility).",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": 8,
+  "aa_applies_to": "compilation",
+  "self_study_cap_pct": 50,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "IPAB",
+  "source_url": "https://cpe.paprika-labs.app/iowa-cpa-cpe-requirements.html",
+  "notes": "Unique: CPAs can choose Jan-Dec or Jul-Jun period orientation. 8hr A&A for compilation CPAs only (not all attest). 24hr non-technical cap. 50% self-study cap (60hr max)."
+}
