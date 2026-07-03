@@ -1,0 +1,20 @@
+{
+  "state_code": "MD",
+  "state_name": "Maryland",
+  "deadline_type": "biennial",
+  "deadline_date": "December 31 (even years)",
+  "deadline_notes": "Biennial ending December 31 of even years (next active: December 31, 2026).",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": 80,
+  "technical_floor_pct": null,
+  "regulatory_body": "MD BOA",
+  "source_url": "https://cpe.paprika-labs.app/maryland-cpa-cpe-requirements-december-31.html",
+  "notes": "Generous 80hr carryover (100% of cycle total). NASBA CPE Audit Service enrollment required as of September 2025 for a percentage of licensees."
+}
