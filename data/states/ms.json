@@ -1,0 +1,20 @@
+{
+  "state_code": "MS",
+  "state_name": "Mississippi",
+  "deadline_type": "annual",
+  "deadline_date": "June 30 (CPE) / August 1 (reporting)",
+  "deadline_notes": "CPE period: July 1 – June 30. CPE reporting deadline: August 1. License renewal: January 1.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": 20,
+  "technical_floor_pct": null,
+  "regulatory_body": "MS BOA",
+  "source_url": "https://cpe.paprika-labs.app/mississippi-cpa-cpe-requirements.html",
+  "notes": "Three-date confusion: CPE period ends June 30, reporting due August 1, license renewal January 1. 1hr of ethics must cover Mississippi Public Accountancy Law & Regulations. QAS-approved self-study only. 20hr personal development cap. 20hr carryover (not for ethics, does not reduce annual minimum). Rolling 120hr/3yr also applies."
+}
