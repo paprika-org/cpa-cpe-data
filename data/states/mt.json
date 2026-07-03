@@ -1,0 +1,20 @@
+{
+  "state_code": "MT",
+  "state_name": "Montana",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual renewal December 31. Rolling 3-year lookback (120hr/3yr).",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": null,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "MT BOA",
+  "source_url": "https://cpe.paprika-labs.app/montana-cpa-cpe-requirements-december-31.html",
+  "notes": "DISTINCTIVE: No self-study cap — 100% self-study permitted (nationally rare). 2hr ethics within 60hr technical minimum. No pre-approval list required. 100% late fee penalty. NASBA CPE Audit Service."
+}
