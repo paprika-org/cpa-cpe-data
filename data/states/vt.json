@@ -1,0 +1,20 @@
+{
+  "state_code": "VT",
+  "state_name": "Vermont",
+  "deadline_type": "biennial",
+  "deadline_date": "July 31 (odd years)",
+  "deadline_notes": "Biennial ending July 31 of odd years. Period: August 1, 2025 – July 31, 2027.",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": 8,
+  "aa_applies_to": "all",
+  "self_study_cap_pct": 80,
+  "carryover_hours": 10,
+  "technical_floor_pct": null,
+  "regulatory_body": "VT SOS",
+  "source_url": "https://cpe.paprika-labs.app/vermont-cpa-cpe-requirements.html",
+  "notes": "8hr A&A applies to ALL licensees (hard rule). 10hr carryover (not for A&A/ethics). Combined self-study+instructor+articles cap: 64hr (80%). Nano learning in fractional increments. $220 renewal fee. ~1,500-2,500 VT CPAs."
+}
