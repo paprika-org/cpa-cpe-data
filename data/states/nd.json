@@ -1,0 +1,20 @@
+{
+  "state_code": "ND",
+  "state_name": "North Dakota",
+  "deadline_type": "annual",
+  "deadline_date": "June 30",
+  "deadline_notes": "CPE period: July 1 – June 30. Annual license renewal. Rolling 120hr/3yr also applies.",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 6,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "ND SBOA",
+  "source_url": "https://cpe.paprika-labs.app/north-dakota-cpa-cpe-requirements.html",
+  "notes": "6hr ethics per 3-year period for CPAs who 'hold out' to the public — above the 4hr national norm. Late renewal: $185 fee (Jul 31–Aug 31). Hard August 31 expiry — license actually lapses after Aug 31 (not just a late fee). Rolling 120hr/3yr."
+}
