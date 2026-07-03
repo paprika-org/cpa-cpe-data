@@ -1,0 +1,20 @@
+{
+  "state_code": "RI",
+  "state_name": "Rhode Island",
+  "deadline_type": "triennial",
+  "deadline_date": "June 30",
+  "deadline_notes": "Triennial. Staggered by last name: A-E → 2027; F-M → 2028; N-Z → June 30, 2026 (ACTIVE).",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": null,
+  "ethics_hours": 6,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": 67,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "RI DBR",
+  "source_url": "https://cpe.paprika-labs.app/rhode-island-cpa-cpe-requirements.html",
+  "notes": "6hr ethics per cycle — above the 4hr national norm. 80hr self-study cap (67% of 120hr). No annual minimum, no A&A mandate, no carryover. New licensees: 80hr first cycle with 4hr ethics. $375 renewal fee."
+}
