@@ -1,0 +1,20 @@
+{
+  "state_code": "AL",
+  "state_name": "Alabama",
+  "deadline_type": "annual",
+  "deadline_date": "September 30",
+  "deadline_notes": "CPE period: October 1 – September 30. License renewal deadline: December 1 (grace to December 31).",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": 8,
+  "aa_applies_to": "all",
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "ASBPA",
+  "source_url": "https://cpe.paprika-labs.app/alabama-cpa-cpe-requirements.html",
+  "notes": "8hr A&A applies to ALL active CPAs — no attest-only carve-out. Behavioral cap: 12hr/yr. Nano-learning cap: 10hr/yr."
+}
