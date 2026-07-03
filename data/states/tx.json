@@ -1,0 +1,20 @@
+{
+  "state_code": "TX",
+  "state_name": "Texas",
+  "deadline_type": "annual",
+  "deadline_date": "birth-month",
+  "deadline_notes": "Annual renewal. Deadline falls in the CPA's birth month. Rolling 3-year 120hr total.",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": 50,
+  "regulatory_body": "TSBPA",
+  "source_url": "https://cpe.paprika-labs.app/tx-cpa-cpe-requirements.html",
+  "notes": "TSBPA-approved ethics only (state-specific). 50% technical minimum. Rolling 120hr/3yr. ~84K TX CPAs — one of the largest CPA populations. No self-study cap."
+}
