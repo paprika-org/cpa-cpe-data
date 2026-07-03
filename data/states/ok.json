@@ -1,0 +1,20 @@
+{
+  "state_code": "OK",
+  "state_name": "Oklahoma",
+  "deadline_type": "annual",
+  "deadline_date": "birth-month",
+  "deadline_notes": "Annual renewal. Deadline falls in the CPA's birth month. Rolling 3-year 120hr total.",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "OK BOA",
+  "source_url": "https://cpe.paprika-labs.app/oklahoma-cpa-cpe-requirements.html",
+  "notes": "Rolling 120hr/3yr total. Permit-holder technical minimum: 20hr/yr must be technical subjects. Compilation practitioners: 4hr/yr compilation CPE or Board-approved peer review. 2025 rule change: sub-1-hour increments now accepted."
+}
