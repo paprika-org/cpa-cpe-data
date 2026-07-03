@@ -1,0 +1,20 @@
+{
+  "state_code": "IN",
+  "state_name": "Indiana",
+  "deadline_type": "triennial",
+  "deadline_date": "December 31",
+  "deadline_notes": "Current period: January 1, 2024 – December 31, 2026. Next: January 1, 2027 – December 31, 2029.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": 12,
+  "aa_applies_to": "all",
+  "self_study_cap_pct": 50,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "IN BOA",
+  "source_url": "https://cpe.paprika-labs.app/indiana-cpa-cpe-requirements-december-31.html",
+  "notes": "20hr annual minimum cannot be deferred to later years — must complete each calendar year. 4hr Indiana-specific ethics required. 36-month certificate retention requirement."
+}
