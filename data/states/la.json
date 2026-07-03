@@ -1,0 +1,20 @@
+{
+  "state_code": "LA",
+  "state_name": "Louisiana",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual renewal December 31. Rolling 2-year window (not fixed annual blocks).",
+  "cycle_years": 1,
+  "total_hours": 80,
+  "annual_min_hours": 20,
+  "ethics_hours": 3,
+  "ethics_state_specific": true,
+  "aa_hours": 8,
+  "aa_applies_to": "attest",
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "LSBA",
+  "source_url": "https://cpe.paprika-labs.app/louisiana-cpa-cpe-requirements-december-31.html",
+  "notes": "Rolling 80hr/2yr total; 20hr annual minimum. 3hr Board-approved ethics required in EVEN years only. No nano-learning allowed. No carryover."
+}
