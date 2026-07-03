@@ -1,0 +1,20 @@
+{
+  "state_code": "NJ",
+  "state_name": "New Jersey",
+  "deadline_type": "triennial",
+  "deadline_date": "December 31",
+  "deadline_notes": "Triennial. Current period: January 1, 2024 – December 31, 2026.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "NJ BOA",
+  "source_url": "https://cpe.paprika-labs.app/nj-cpa-cpe-requirements-december-31.html",
+  "notes": "No self-study cap, no annual minimum, no carryover. Attest CPAs need additional A&A-related content."
+}
