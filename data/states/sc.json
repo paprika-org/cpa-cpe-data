@@ -1,0 +1,20 @@
+{
+  "state_code": "SC",
+  "state_name": "South Carolina",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual CPE by December 31. License renewal by February 1.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": 20,
+  "technical_floor_pct": null,
+  "regulatory_body": "LLRONC",
+  "source_url": "https://cpe.paprika-labs.app/sc-cpa-cpe-requirements-december-31.html",
+  "notes": "NASBA CPE Audit Service required. 20hr carryover. 12hr daily CPE cap. No self-study cap."
+}
