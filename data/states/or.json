@@ -1,0 +1,20 @@
+{
+  "state_code": "OR",
+  "state_name": "Oregon",
+  "deadline_type": "biennial",
+  "deadline_date": "June 30",
+  "deadline_notes": "Biennial. Permit number determines year: even → even years; odd → odd years. Staggered half each year.",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": 24,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "OR BOA",
+  "source_url": "https://cpe.paprika-labs.app/oregon-cpa-cpe-requirements.html",
+  "notes": "DISTINCTIVE: 24hr annual minimum — above national norm. Oregon-specific ethics content required (generic NASBA may not qualify). 16hr non-technical cap — strictest in the US. NASBA National Registry accepted."
+}
