@@ -1,0 +1,20 @@
+{
+  "state_code": "FL",
+  "state_name": "Florida",
+  "deadline_type": "biennial",
+  "deadline_date": "June 30 (even years)",
+  "deadline_notes": "Biennial ending June 30 of even years (next standard: June 28, 2028; Oct 2026 cohort varies).",
+  "cycle_years": 2,
+  "total_hours": 80,
+  "annual_min_hours": null,
+  "ethics_hours": 4,
+  "ethics_state_specific": true,
+  "aa_hours": 8,
+  "aa_applies_to": "all",
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "DBPR",
+  "source_url": "https://cpe.paprika-labs.app/florida-cpa-cpe-requirements-june-30.html",
+  "notes": "4hr FL Board-approved ethics covering Chapters 455 & 473 — generic NASBA ethics does NOT qualify. 8hr A&A applies to ALL CPAs. 20hr behavioral cap."
+}
