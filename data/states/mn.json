@@ -1,0 +1,20 @@
+{
+  "state_code": "MN",
+  "state_name": "Minnesota",
+  "deadline_type": "triennial",
+  "deadline_date": "June 30",
+  "deadline_notes": "Triennial. CPE year: July 1 – June 30. License renewal by June 30. Rolling 3-year lookback.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 8,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": 50,
+  "regulatory_body": "MN BOA",
+  "source_url": "https://cpe.paprika-labs.app/minnesota-cpa-cpe-requirements.html",
+  "notes": "8hr ethics per cycle (double the 4hr national norm). 60hr technical minimum (50%). 24hr group/blended learning minimum. 72hr approved-sponsor minimum. No carryforward. Carryback allowed with fees. ~25K MN CPAs."
+}
