@@ -1,0 +1,20 @@
+{
+  "state_code": "OH",
+  "state_name": "Ohio",
+  "deadline_type": "triennial",
+  "deadline_date": "December 31",
+  "deadline_notes": "Triennial. Current period: January 1, 2024 – December 31, 2026.",
+  "cycle_years": 3,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 3,
+  "ethics_state_specific": true,
+  "aa_hours": 24,
+  "aa_applies_to": "attest",
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "AOS",
+  "source_url": "https://cpe.paprika-labs.app/oh-cpa-cpe-requirements-december-31.html",
+  "notes": "3hr PSR (Professional Standards & Responsibilities) ethics — Board-approved providers only. Attest CPAs: 24hr A&A + tax subject requirement. 8hr daily live CPE cap. No self-study cap."
+}
