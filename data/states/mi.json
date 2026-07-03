@@ -1,0 +1,20 @@
+{
+  "state_code": "MI",
+  "state_name": "Michigan",
+  "deadline_type": "annual",
+  "deadline_date": "June 30",
+  "deadline_notes": "Annual CPE by June 30. Biennial license renewal by July 31 via MiPLUS.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 2,
+  "ethics_state_specific": true,
+  "aa_hours": 8,
+  "aa_applies_to": "all",
+  "self_study_cap_pct": 50,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "LARA",
+  "source_url": "https://cpe.paprika-labs.app/michigan-cpa-cpe-requirements.html",
+  "notes": "8hr A&A applies to ALL CPAs — distinctive compared to most states. 1 of 2 ethics hours must cover MI-specific statutes and rules. 50% self-study cap (20hr max). ~38K MI CPAs."
+}
