@@ -1,0 +1,20 @@
+{
+  "state_code": "MO",
+  "state_name": "Missouri",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "Annual CPE by December 31.",
+  "cycle_years": 1,
+  "total_hours": 40,
+  "annual_min_hours": 40,
+  "ethics_hours": 2,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": 50,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "MO BOA",
+  "source_url": "https://cpe.paprika-labs.app/mo-cpa-cpe-requirements-december-31.html",
+  "notes": "2hr ethics annual requirement. 50% self-study cap. NASBA-registered providers accepted."
+}
