@@ -1,0 +1,20 @@
+{
+  "state_code": "WV",
+  "state_name": "West Virginia",
+  "deadline_type": "annual",
+  "deadline_date": "December 31",
+  "deadline_notes": "CPE completion by December 31. License renewal reporting by January 31. License renewal (permit) by June 30.",
+  "cycle_years": 1,
+  "total_hours": 120,
+  "annual_min_hours": 20,
+  "ethics_hours": 4,
+  "ethics_state_specific": false,
+  "aa_hours": null,
+  "aa_applies_to": null,
+  "self_study_cap_pct": null,
+  "carryover_hours": null,
+  "technical_floor_pct": null,
+  "regulatory_body": "WV BOA",
+  "source_url": "https://cpe.paprika-labs.app/west-virginia-cpa-cpe-requirements-december-31.html",
+  "notes": "Three-date structure: CPE Dec 31, reporting Jan 31, permit renewal Jun 30. Rolling 120hr/3yr. 20hr annual minimum non-deferrable."
+}
