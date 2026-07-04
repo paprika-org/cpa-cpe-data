@@ -118,6 +118,12 @@ State sources:
 - [AICPA State CPE Requirements](https://www.aicpa-cima.com/professional-insights/download/us-cpa-state-cpe-requirements)
 - Individual state board websites
 
+## Related Resources
+
+- [awesome-cpa-resources](https://github.com/paprika-org/awesome-cpa-resources) — Curated list of CPA tools, guides, CPE trackers, and professional resources
+- [CPETrack](https://cpe.paprika-labs.app) — Free CPE deadline tracker using this dataset
+- [CPE tracker comparison](https://cpe.paprika-labs.app/cpe-tracker-comparison.html) — How CPETrack compares to NASBA, Becker, Surgent, etc.
+
 ## License
 
 [CC0 1.0 Universal](LICENSE) — public domain, no attribution required.
