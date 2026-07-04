@@ -118,6 +118,16 @@ State sources:
 - [AICPA State CPE Requirements](https://www.aicpa-cima.com/professional-insights/download/us-cpa-state-cpe-requirements)
 - Individual state board websites
 
+## CPE Reference Guides
+
+The [guides/](guides/) directory contains structured markdown references:
+
+- [51-State Deadline Table](guides/cpa-cpe-deadlines-by-state-2026.md) — every state deadline, cycle, and hours
+- [Ethics Requirements](guides/cpa-ethics-cpe-requirements-by-state.md) — ethics CPE by state with provider rules
+- [Dec 31, 2026 States](guides/cpa-cpe-dec31-states-2026.md) — which states have Dec 31, 2026 deadlines
+- [Hours Quick Reference](guides/cpa-cpe-hours-by-state-quick-reference.md) — 40/80/120hr states at a glance
+- [Renewal Calendar 2026](guides/cpa-cpe-renewal-calendar-2026.md) — month-by-month schedule
+
 ## Related Resources
 
 - [awesome-cpa-resources](https://github.com/paprika-org/awesome-cpa-resources) — Curated list of CPA tools, guides, CPE trackers, and professional resources
